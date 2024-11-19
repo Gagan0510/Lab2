@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Client"},{"p":"<Unnamed>","l":"DBConnection"},{"p":"<Unnamed>","l":"IndyWinner"},{"p":"<Unnamed>","l":"IndyWinnerDAO"},{"p":"<Unnamed>","l":"IndyWinnerDAOImpl"},{"p":"<Unnamed>","l":"IndyWinnerSimpleSV"}];updateSearchResults();
